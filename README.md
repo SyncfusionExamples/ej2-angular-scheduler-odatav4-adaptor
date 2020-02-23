@@ -3,7 +3,7 @@
 This is the project to perform the CRUD action with ODataV4 Adaptor services
 
 ## How to run this application?
-To run this application, you need to first clone the `angular-scheduler-with-odatav4-adaptor` repository and then navigate to its appropriate path where it has been located in your system.
+To run this application, clone the `ej2-angular-scheduler-with-odatav4-adaptor` repository and then navigate to its appropriate path where it has been located in your system.
 
 There are 2 projects available in this repository as `odatav4-adaptor-service` for the backend and `odatav4-adaptor-sample` for client end.
 
@@ -12,7 +12,7 @@ First you have to run the service project `odatav4-adaptor-service`
 And then, open the command prompt of `odatav4-adaptor-sample` and run the below commands one after the other.
 
 ## Installing
-Once done with downloading, next you need to install the necessary packages required to run this application locally. The `npm install` command will install all the needed angular packages into your current project and to do so, run the below command.
+Once done with downloading, install the necessary packages required to run this application locally. The `npm install` command will install all the necessary angular packages into your current project and to do so, run the below command.
 
 ```
 npm install
